@@ -1,0 +1,55 @@
+1) socket (fabricante|tipo de socket)
+
+1 -Intel LGA 1200
+2 -Intel LGA 1700
+3 -AMD AM4
+4 -AMD AM5
+
+2) placa base ---> fabricante ---> modelo ---> manual pdf
+
+--- Asus ROG MAXIMUS XIII extreme
+  https://www.pccomponentes.com/asus-rog-maximus-xiii-extreme
+  https://dlcdnets.asus.com/pub/ASUS/mb/LGA1200/ROG_MAXIMUS_XIII_EXTREME/E17684_ROG_MAXIMUS_XIII_EXTREME_UM_WEB.pdf?model=ROG%20MAXIMUS%20XIII%20EXTREME
+
+--- Asus TUF GAMING Z790 Plus Wi-Fi
+  https://www.pccomponentes.com/asus-tuf-gaming-z790-plus-wifi
+  https://dlcdnets.asus.com/pub/ASUS/mb/LGA1700/TUF_GAMING_Z790-PLUS_WIFI/E21279_TUF_GAMING_Z790-PLUS_WIFI_UM_WEB.pdf?model=TUF%20GAMING%20Z790-PLUS%20WIFI
+
+--- AsRock X570 Phantom Gaming 4
+  https://www.pccomponentes.com/asrock-x570-phantom-gaming-4
+  https://download.asrock.com/Manual/X570%20Phantom%20Gaming%204.pdf
+
+--- Gigabyte B650 GAMING X AX
+  https://www.pccomponentes.com/gigabyte-b650-gaming-x-ax
+  https://download.gigabyte.com/FileList/Manual/mb_manual_b650-gaming-x-series_e_1201.pdf?v=296c6ed6702f650d8384238e78fcd6cf
+
+3) procesador ---> + potente [LGA|PGA]
+	        L-> - potente [LGA|PGA]
+
+--- 11th Gen Intel® Core™ processors & 10th Gen Intel® Core™, Pentium® Gold, and Celeron® Processors*
+
+--- 13th Gen Intel® Core™ and 12th Gen Intel® Core™, Pentium® Gold and Celeron® Processors.
+
+--- RyzenTM 2000 and 3000 series processors
+
+--- AMD Ryzen™ 7000 Series Processors
+
+
+4) Memoria ---> tipo (DDRX)
+	    L-> Velocidad (MHZ)
+	    L-> 4 Latencias x-y-j-k
+
+--- ( 4 x DIMM, Max. 128GB, DDR4 5333(OC) / 5133(OC) / 5000(OC) / 4800(OC) / 4700(OC) / 4600(OC) / 4500(OC) / 4400(OC) / 4266(OC) / 4133(OC) / 4000(OC) / 3866(OC) / 3733(OC) / 3600(OC) / 3466(OC) / 3400(OC) / 3333(OC) / 3200 / 3000 / 2933 / 2800 / 2666 / 2400 / 2133 MHz Non-ECC, Un-buffered Memory* Dual Channel Memory Architecture Supports Intel® Extreme Memory Profile (XMP) OptiMem III * 10th Gen Intel® Core™ i7/i9 processors support 2933 / 2800 / 2666 / 2400 / 2133 natively, others will run at the maximum transfer rate of DDR4 2666MHz. * 11th Gen Intel® Core™ processors support 3200 / 2933 / 2800 / 2666 / 2400 / 2133 natively. * Refer to www.asus.com for the Memory QVL (Qualified Vendors Lists), and memory frequency support depends on the CPU types )
+
+--- ( 4 x DIMM, Max. 128GB, DDR5, Non-ECC, Un-buffered Memory* Dual Channel Memory Architecture Supports Intel® Extreme Memory Profile (XMP) OptiMem II * Supported memory types, data rate (speed), and number of DRAM modules vary depending on the CPU and memory configuration, for more information please refer to CPU/Memory Support under the Support tab or visit https://www.asus.com/support/. * Non-ECC, un-buffered DDR5 memory supports On-Die ECC function. )
+
+--- ( Dual Channel DDR4 Memory Technology | 4 x DDR4 DIMM Slots | AMD Ryzen series CPUs (Matisse) support DDR4 4066+
+(OC)/3466(OC)/3200/2933/2667/2400/2133 ECC & nonECC, un-buffered memory* | AMD Ryzen series CPUs (Pinnacle Ridge) support DDR4
+3466+(OC)/3200(OC)/2933/2667/2400/2133 ECC & nonECC, un-buffered memory* | AMD Ryzen series CPUs (Picasso) support DDR4 3466+
+(OC)/3200(OC)/2933/2667/2400/2133 non-ECC, un-buffered memory* | For Ryzen Series CPUs (Picasso), ECC is only supported with
+PRO CPUs. | Max. capacity of system memory: 128GB | 15μ Gold Contact in DIMM Slots )
+
+--- ( Support for DDR5 5200/4800/4400 MT/s memory modules | 4 x DDR5 DIMM sockets supporting up to 128 GB (32 GB single DIMM capacity)
+of system memory | Dual channel memory architecture | Support for non-ECC Un-buffered DIMM 1Rx8/2Rx8/1Rx16 memory modules | Support for AMD EXtended Profiles for Overclocking (AMD EXPO™) and Extreme | Memory Profile (XMP) memory module )
+
+

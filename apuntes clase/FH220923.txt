@@ -1,0 +1,5 @@
+studio.code.org -----> tetris binario
+
+es preferible mas voltaje a mas intensidad, mas ancho q velocidad a mismos electrones
+
+efecto joule--> mas velocidad/mas corriente, mas calor. electrones x un metal= mas calor
